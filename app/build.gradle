@@ -6,8 +6,8 @@ android {
   applicationId 'com.riftlens.training'
   minSdk 26
   targetSdk 35
-  versionCode 6
-  versionName '0.6-test'
+  versionCode 7
+  versionName '0.7-experimental'
  }
  compileOptions {
   sourceCompatibility JavaVersion.VERSION_17
